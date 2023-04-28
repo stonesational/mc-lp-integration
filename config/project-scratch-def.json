@@ -1,7 +1,7 @@
 {
-  "orgName": "jason company",
+  "orgName": "Navomi",
   "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"],
+  "features": ["EnableSetPasswordInApi", "Sites"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
