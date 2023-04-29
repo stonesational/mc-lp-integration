@@ -1,4 +1,4 @@
-# Connector for Live Person Integration with Marketing Cloud
+# Marketing Cloud Journey Build Custom Activity Connector
 
 ## Prerequisites
 
