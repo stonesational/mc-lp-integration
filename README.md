@@ -11,13 +11,13 @@
 ## How to Run
 
 1. `git clone <this repo>`
-2. Open this repo in VS Code
+2. Open this project in VS Code
 3. VS Code -> Command Palette -> 
   -  `SFDX: Create a Default Scratch Org` (this can take a couple minutes)
   -  `SFDX: Push Source to Default Org`
   -  `SFDX: Open Default Org`
 
-### You'll now be logged into a Scratch Org with:
+### You'll now be logged into your own Scratch Org with:
   - A VisualForce Site
   - An Apex Rest Endpoint: <site_hostname>/services/apexrest/execute
   - Resources needed by Journey Builder Custom Activity <site_hostname>:
