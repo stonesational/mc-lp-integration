@@ -1,4 +1,5 @@
-# Marketing Cloud Journey Build Custom Activity Connector
+# MC JB Custom Activity Connector
+This will allow the hosting of a SF Marketing Cloud Journey Builder Custom Activity on the Force.com platform
 
 ## Prerequisites
 
