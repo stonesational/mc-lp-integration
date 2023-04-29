@@ -37,3 +37,5 @@
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
 
 
+## Issues
+1. (CustomSite is not supported in Managed Packages)[https://dx-extended-coverage.my.salesforce-sites.com/docs/metadata-coverage/58] which will likely kill this option dead in it's tracks if the end goal is a packaged solution on the AppExchange. Only an option for a Customer Accelerator.
